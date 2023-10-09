@@ -1,0 +1,17 @@
+ID Cultivation,Type of Crop,Crop Yield,pH,Nitrogen N,Potassium K,Phosphorus P,Organic Matter,Soil Texture,Humidity,Crop Rotation Number,Fungal Material,Algal Material,Earthworm Material,Altitude,Latitude,Longitude
+12023,Corn,80%,6.8,45,125,55,2.2,Sandy Loam,14,2,Mushrooms,Green Algae,Yes,1200,42.1234,-75.0
+22023,Oats,75%,6.5,55,135,60,2.0,Loam,16,1,Yeast,Brown Algae,No,1400,42.2345,-76.0
+32023,Peas,85%,6.2,50,130,65,2.8,Clay Loam,18,3,Molds,Red Algae,Yes,1100,42.3456,-76.5
+42023,White Corn,78%,6.0,60,140,70,2.4,Sandy Loam,17,2,Mushrooms,Green Algae,No,1300,42.4567,-77.0
+52023,Yellow Corn,82%,6.5,70,145,75,2.6,Loam,15,1,Mushrooms,Brown Algae,Yes,1250,42.5678,-76.2
+62023,Amaranth,88%,6.3,55,135,62,2.3,Clay Loam,16,2,Yeast,Green Algae,No,1200,42.6789,-75.8
+72023,Quinoa,87%,6.1,65,138,68,2.7,Loam,14,3,Molds,Red Algae,Yes,1400,42.7890,-76.3
+82023,Barley,79%,6.4,58,132,64,2.1,Clay Loam,17,2,Mushrooms,Green Algae,Yes,1250,42.8901,-76.7
+92023,Corn,80%,6.8,45,125,55,2.2,Sandy Loam,14,2,Mushrooms,Green Algae,Yes,1200,42.9012,-75.0
+102023,Oats,75%,6.5,55,135,60,2.0,Loam,16,1,Yeast,Brown Algae,No,1400,42.0123,-76.0
+112023,Peas,85%,6.2,50,130,65,2.8,Clay Loam,18,3,Molds,Red Algae,Yes,1100,42.1234,-76.5
+122023,White Corn,78%,6.0,60,140,70,2.4,Sandy Loam,17,2,Mushrooms,Green Algae,No,1300,42.2345,-77.0
+132023,Yellow Corn,82%,6.5,70,145,75,2.6,Loam,15,1,Mushrooms,Brown Algae,Yes,1250,42.3456,-76.2
+142023,Amaranth,88%,6.3,55,135,62,2.3,Clay Loam,16,2,Yeast,Green Algae,No,1200,42.4567,-75.8
+152023,Quinoa,87%,6.1,65,138,68,2.7,Loam,14,3,Molds,Red Algae,Yes,1400,42.5678,-76.3
+162023,Barley,79%,6.4,58,132,64,2.1,Clay Loam,17,2,Mushrooms,Green Algae,Yes,1250,42.6789,-76.7
